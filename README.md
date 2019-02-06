@@ -1,6 +1,23 @@
 # MRChallenge2019
 
-The `MRChallenge2019` R package provides necessary data and documentation for the 2019 Mendelian Randomization (MR) Conference data challenge. The MR Conference will be held in Bristol from July 17th to July 19th, and more information can be found at https://www.mendelianrandomization.org.uk/. 
+The `MRChallenge2019` R package provides necessary data and documentation for the 2019 Mendelian Randomization (MR) Conference data challenge.
+
+The MR Data Challenge is an opportunity to explore and develop innovative approaches to causal inference using a rich source of genetic association data taken from Kettunen et al (1).
+
+At a glance, these data comprise information on 150 SNPs and their association with
+
+1. 118 lipid fraction traits (including HDL and LDL cholesterol)
+2. Health outcomes (including type II Diabetes and stroke)
+
+Researchers attending the upcoming 2019 Mendelian randomization conference in Bristol from July 17th-19th are encouraged to make use of all (or any part) of these data to Illustrate new methodology and to compare or explain existing methods as part of an oral or poster presentation.  
+
+A special conference session is being planned to showcase all of the analyses attempted. Individuals will be encouraged to share software for transparency, with awards being given for innovation and reproducible research.  A key aim of the session will be to bring together methodologists and statisticians with experts from medicine, epidemiology and biological science, who will help to comment on and debate the results.
+
+Further information on the specifics of the data challenge session will be released in the near future, including a set of challenge questions that individuals can choose to address in their analysis.
+
+Please circulate widely among your research group and peers if planning to attend the conference, and encourage them to take part
+
+ We look forward to seeing you in Bristol in the summer. Further information on the MR conference is available at https://www.mendelianrandomization.org.uk/.
 
 ## Installation
 
