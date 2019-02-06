@@ -5,7 +5,7 @@
 \alias{NMRA_dat}
 \title{A data frame containing the abbreviation, full name, overall heritability of the trait, and classification of each NMR trait.}
 \format{A data frame with 118 rows and 21 variables. A full description of the data is available
-by using the command \code{vignette("MRDataChallenge19")}.}
+by using the command \code{vignette("challenge")}.}
 \source{
 \itemize{
 \item \url{https://nightingalehealth.com/biomarkers}

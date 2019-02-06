@@ -5,7 +5,7 @@
 \alias{Challenge_dat}
 \title{Genetic, metabolite, and outcome data for the 2019 MR Conference Data Challenge.}
 \format{A data frame with 150 rows and 267 variables. A full description of the data is available
-by using the command \code{vignette("MRDataChallenge19")}.}
+by using the command \code{vignette("challenge")}.}
 \source{
 \itemize{
 \item \url{http://www.computationalmedicine.fi/data#NMR_GWAS}

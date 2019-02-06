@@ -7,7 +7,7 @@
 #' NMRA_dat.
 #'
 #' @format A data frame with 118 rows and 21 variables. A full description of the data is available
-#' by using the command \code{vignette("MRDataChallenge19")}.
+#' by using the command \code{vignette("challenge")}.
 #' 
 #' @source 
 #' \itemize{
