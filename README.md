@@ -11,9 +11,11 @@ To install `MRChallenge2019` directly from the GitHub repository, first make sur
 Then the `MRChallenge2019` package can be installed using:
 
     library(devtools)
-    install_github("WSpiller/MRChallenge2019", build_vignettes = TRUE)
+    install_github("WSpiller/MRChallenge2019",build_opts = c("--no-resave-data", "--no-manual"))
     
-To update the package just run the `install_github("WSpiller/MRChallenge2019", build_vignettes = TRUE)` command again.
+To update the package just run the `install_github("WSpiller/MRChallenge2019", build_opts = c("--no-resave-data", "--no-manual"))` command again.
+
+Note that the change from previously running `install_github("WSpiller/MRChallenge2019",build_vignettes=T)` is a consequence of using the newer `devtools 2.0.1`.
 
 ## Description
 
