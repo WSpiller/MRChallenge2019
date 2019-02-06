@@ -19,9 +19,9 @@ To update the package just run the `install_github("WSpiller/MRChallenge2019", b
 
 The `MRChallenge2019` package contains two data frames, and a document describing the data and aims of the data challenge:
 
-1. The data frame Challenge_dat contains summary data for the estimated associations between 118 metabolite risk factors and 150 genetic variants, with metabolite information quantified using nuclear magnetic resonance (NMR) spectroscopy metabolomics. The data also includes information on 7 outcomes; age-related macular degeneration, alzheimers's disease, type 2 diabetes, Ischemic stroke, large artery stroke, cardioembolic stroke, and small vessel stroke.
+1. The data frame `Challenge_dat` contains summary data for the estimated associations between 118 metabolite risk factors and 150 genetic variants, with metabolite information quantified using nuclear magnetic resonance (NMR) spectroscopy metabolomics. The data also includes information on 7 outcomes; age-related macular degeneration, alzheimers's disease, type 2 diabetes, Ischemic stroke, large artery stroke, cardioembolic stroke, and small vessel stroke.
 
-2. The data frame NMRA_dat contains the abbreviation, full name, overall heritability of the trait, and classification of each NMR trait.
+2. The data frame `NMRA_dat` contains the abbreviation, full name, overall heritability of the trait, and classification of each NMR trait.
 
 3. Running the command `vignette("challenge")` will display a document giving a detailed description of the data and broad aims of the data challenge.
 
