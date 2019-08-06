@@ -205,10 +205,8 @@ The correlation matrix below shows the correlation between the set of NMR metabo
 
 The correlation matrix above highlights that many of the metabolites are highly correlated with one another. No pruning has been performed on the data presented in `Challenge_dat` or `NMRA_dat`.
 
-##Acknowledgements
+## Acknowledgements
 
 The majority of data formatting for this data challenge was provided by Verena Zuber and the Department of Epidemiology and Biostatistics, Imperial College London. Documentation has been adapted by the MRC Integrative Epidemiology Unit, University of Bristol for use in the 2019 MR Conference. The MR Conference will be held at Bristol from July 17th to July 19th, and more information can be found [here](https://www.mendelianrandomization.org.uk/).
 
-##References
-
-
+## References
