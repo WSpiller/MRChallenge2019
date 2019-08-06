@@ -7,7 +7,7 @@ csl: international-journal-of-epidemiology.csl
 link-citations: yes
 output: html_vignette
 vignette: >
-  %\VignetteIndexEntry{TEST}
+  %\VignetteIndexEntry{MR Data Challenge}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
