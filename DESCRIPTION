@@ -1,13 +1,14 @@
 Package: MRChallenge2019
-Title: An R package containing data for the MR Conference Data Challenge 2019.
+Title: An R package containing data for the MR Conference Data Challenge 2019
 Version: 0.1
 Authors@R: c(person("Wes", "Spiller", email = "wes.spiller@bristol.ac.uk", role = c("aut", "cre")), person("Jack", "Bowden", email = "jack.bowden@bristol.ac.uk", role = c("aut")), person("Verena", "Zuber", email = "v.zuber@imperial.ac.uk", role = c("aut")))
 Description: The package provides summary data for the estimated associations between 118 metabolite risk factors and 150 genetic variants, with metabolite information quantified using nuclear magnetic resonance (NMR) spectroscopy metabolomics. The data also includes information on 7 outcomes as described below. A second data frame is also included providing the abbreviation, full name, overall heritability of the trait, and classification of each NMR trait. Finally, a document is included giving a description of the data and broad aims of the 2019 MR Conference Data Challenge.
 Depends: R (>= 3.1)
-License: GPL(>= 2)
+License: GPL-2
 Encoding: UTF-8
 LazyData: true
-Suggests: knitr, rmarkdown
+Suggests: knitr, rmarkdown, kableExtra, captioner, stringr
 VignetteBuilder: knitr
 RoxygenNote: 6.1.1
-
+URL: https://github.com/WSpiller/MRChallenge2019
+BugReports: https://github.com/WSpiller/MRChallenge2019/issues

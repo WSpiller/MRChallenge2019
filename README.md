@@ -21,16 +21,16 @@ Please circulate widely among your research group and peers if planning to atten
 
 ## Installation
 
-To install `MRChallenge2019` directly from the GitHub repository, first make sure you have the `devtools` package installed:
+To install `MRChallenge2019` directly from the GitHub repository, first make sure you have the `remotes` package installed:
 
-    install.packages("devtools")
+    install.packages("remotes")
 
 Then the `MRChallenge2019` package can be installed using:
 
-    library(devtools)
-    install_github("WSpiller/MRChallenge2019",build_opts = c("--no-resave-data", "--no-manual"))
+    library(remotes)
+    install_github("WSpiller/MRChallenge2019", build_opts = c("--no-resave-data", "--no-manual"), build_vignettes = TRUE)
     
-To update the package just run the `install_github("WSpiller/MRChallenge2019", build_opts = c("--no-resave-data", "--no-manual"))` command again.
+To update the package just run the `remotes::install_github("WSpiller/MRChallenge2019", build_opts = c("--no-resave-data", "--no-manual"), build_vignettes = TRUE)` command again.
 
 Note that the change from previously running `install_github("WSpiller/MRChallenge2019",build_vignettes=T)` is a consequence of using the newer `devtools 2.0.1`.
 
